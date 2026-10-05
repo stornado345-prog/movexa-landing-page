@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40" fill="none">
+  <!-- Monogram Icon -->
+  <rect x="0" y="2" width="36" height="36" rx="8" fill="url(#grad)" />
+  <path d="M9 28V12L18 21L27 12V28" stroke="#07080a" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="18" cy="27" r="2.5" fill="#07080a" />
+  
+  <!-- Text: MOVEXA -->
+  <text x="46" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="900" letter-spacing="1.5" fill="#ffffff">MOVEXA</text>
+  
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffd21f" />
+      <stop offset="100%" stop-color="#b88e00" />
+    </linearGradient>
+  </defs>
+</svg>

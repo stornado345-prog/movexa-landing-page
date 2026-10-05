@@ -1,0 +1,6 @@
+{
+  "name": "MOVEXA - Smart Cinema Self-Service Kiosk",
+  "description": "Modern self-service cinema kiosk landing page showcasing seamless ticketing, interactive seat selection, QRIS & Virtual Account payment, and automated ticket printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
